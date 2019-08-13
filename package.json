@@ -35,5 +35,7 @@
     "hooks": {
       "pre-commit": "npm run lint && npm test"
     }
-  }
+  },
+  "main": ".eslintrc.js",
+  "keywords": []
 }
